@@ -1,0 +1,53 @@
+name: fetch-traffic-stats
+
+on:
+  schedule:
+    - cron: "0 23 * * *"
+  workflow_dispatch:
+
+jobs:
+  repos-details:
+    name: get-list-public-repos
+    runs-on: ubuntu-latest
+    outputs:
+      repo-names: ${{ steps.step1.outputs.repo-names }}
+    steps:
+      - name: run-shell-script
+        id: step1
+        run: |
+          per_page=30
+          orgs=("quic" "audioreach" "qualcomm" "qualcomm-AI-research" "qualcomm-linux" "quic-qrb-ros" "SnapdragonStudios")
+          full_names=""
+
+          for org in "${orgs[@]}"; do
+            page=1
+            while true; do
+              url="https://api.github.com/orgs/$org/repos?type=public&per_page=$per_page&page=$page"
+              response=$(curl -L -H "Accept: application/vnd.github+json" -H "Authorization: Bearer ${{ secrets.ghrs_github_api_token }}"" \
+              -H "X-GitHub-Api-Version: 2022-11-28" -s $url)
+              repo_names=$(echo "$response" | jq -r '.[].full_name')
+              if [[ -z "$repo_names" ]]; then
+                break
+              fi
+              full_names+="$repo_names"$'\n'
+              page=$((page+1))
+            done
+          done
+          full_names_json=$(echo "$full_names" | jq -R -s -c 'split("\n") | map(select(length > 0))')
+          echo "repo-names=$full_names_json" >> $GITHUB_OUTPUT
+
+  run-ghrs-with-matrix:
+    name: repostats-for-quic-projects
+    needs: repos-details
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        statsRepo: ${{ fromJson(needs.repos-details.outputs.repo-names) }}
+      fail-fast: false
+      max-parallel: 1
+    steps:
+      - name: run-ghrs
+        uses: jgehrcke/github-repo-stats@RELEASE
+        with:
+          repository: ${{ matrix.statsRepo }}
+          ghtoken: ${{ secrets.ghrs_github_api_token }}
