@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qidk,257,146
+/quic/qidk/tree/master,91,45
+/quic/qidk/blob/master/Examples/QNN-Model-Example-SESR/README.md,83,58
+/quic/qidk/issues/33,77,51
+/quic/qidk/tree/master/Tools/snpe_qnn_docker,75,26
+/quic/qidk/tree/master/Examples,68,47
+/quic/qidk/blob/master/Examples/QNN-Model-Example-EnhancementGAN/README.md,65,43
+/quic/qidk/blob/master/Model-Enablement/Model-Accuracy-Mixed-Precision/Accuracy_Analyzer_YoloV8.ipynb,63,28
+/quic/qidk/tree/master/Model-Enablement/Model-Accuracy-Mixed-Precision,53,20
+/quic/qidk/tree/master/Examples/QNN-Model-Example-EnhancementGAN,50,33
