@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/lockers,6,5
+/quic/lockers/commits/master,4,1
+/quic/lockers/blob/master/k8s_id.sh,3,1
+/quic/lockers/commit/5f8de733aa936c4136622e8bde03e2844926802d,2,2
+/quic/lockers/commits,2,1
+/quic/lockers/pulls,2,1
+/quic/lockers/blob/master/LICENSE,1,1
+/quic/lockers/blob/master/README.md,1,1
+/quic/lockers/blob/master/test/k8s/k8s_id.sh,1,1
+/quic/lockers/blob/master/test/k8s/lib_k8s.sh,1,1
