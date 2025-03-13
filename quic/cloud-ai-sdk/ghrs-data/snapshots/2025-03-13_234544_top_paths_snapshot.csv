@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/cloud-ai-sdk,213,144
+/quic/cloud-ai-sdk/tree/1.17/models,50,36
+/quic/cloud-ai-sdk/tree/1.17,40,23
+/quic/cloud-ai-sdk/tree/1.17/utils/multi-device,26,15
+/quic/cloud-ai-sdk/tree/1.17/tutorials,23,14
+/quic/cloud-ai-sdk/tree/1.12/models/language_processing/decoder/LlamaForCausalLM,18,15
+/quic/cloud-ai-sdk/tree/1.17/models/language_processing,17,12
+/quic/cloud-ai-sdk/tree/1.17/utils,16,10
+/quic/cloud-ai-sdk/tree/1.17/tutorials/Computer-Vision/Perfomance-Tuning-Beginner,16,9
+/quic/cloud-ai-sdk/tree/1.17/models/vision,14,12
