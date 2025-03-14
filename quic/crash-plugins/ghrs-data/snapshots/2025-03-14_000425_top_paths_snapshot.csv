@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/crash-plugins,21,9
+/quic/crash-plugins/commits/main,11,1
+/quic/crash-plugins/releases,4,2
+/quic/crash-plugins/tree/main,3,1
+/quic/crash-plugins/actions,2,2
+/quic/crash-plugins/blob/main/plugin.cpp,2,2
+/quic/crash-plugins/commit/7eac7aa2817ebadf9a64f3701a735c235afe7e23,2,1
+/quic/crash-plugins/commit/9b36749ac6d1573225f614ab2373f91d46ee22de,2,1
+/quic/crash-plugins/actions/runs/13643399672,1,1
+/quic/crash-plugins/blob/main/workqueue/workqueue.cpp,1,1
