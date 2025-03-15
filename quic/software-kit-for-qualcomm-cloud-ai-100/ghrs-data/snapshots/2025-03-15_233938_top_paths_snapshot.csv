@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/software-kit-for-qualcomm-cloud-ai-100,26,21
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/b4fdb0a2c6594da67f255789a91d060083d25edb/lib/runtime-platform/src/os/linux/QOsal.cpp,13,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/b4fdb0a2c6594da67f255789a91d060083d25edb/lib/network-driver/src/QNeuralNetwork.cpp,4,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/b4fdb0a2c6594da67f255789a91d060083d25edb/lib/runtime-platform/src/dev/aic100/QRuntimePlatformDeviceAic100.cpp,4,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/lib/runtime-platform/src/QRuntimePlatformKmdDevice.cpp,3,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/utils/qaic-util/QaicUtilTxUI.cpp,3,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/b4fdb0a2c6594da67f255789a91d060083d25edb,3,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/.github/workflows,3,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/utils/qaic-util/README,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main,2,2
