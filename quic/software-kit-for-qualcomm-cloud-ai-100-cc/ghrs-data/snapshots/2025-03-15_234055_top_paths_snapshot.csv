@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc,12,10
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/README.md,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/CONTRIBUTING.md,1,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/docs/QAICProgramConfig.txt,1,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/.github/workflows/quic-organization-repolinter.yml,1,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/lib/metadata/metadata-common/inc/AICMetadataExecCtx.h,1,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/lib/networkdesc/proto/AICNetworkDesc.proto,1,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/.github/workflows,1,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/lib,1,1
