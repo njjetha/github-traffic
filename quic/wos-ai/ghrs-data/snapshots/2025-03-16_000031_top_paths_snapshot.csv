@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/wos-ai/blob/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check/utils.cpp,5,4
+/quic/wos-ai,3,3
+/quic/wos-ai/tree/main/Scripts,3,2
+/quic/wos-ai/blob/main/Scripts/qnn_setup.ps1,2,2
+/quic/wos-ai/blob/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check/gen_qnn_ctx_onnx_model.py,2,1
+/quic/wos-ai/blob/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check/main.cpp,1,1
+/quic/wos-ai/blob/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check/to_fp16.py,1,1
+/quic/wos-ai/blob/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check/utils.h,1,1
+/quic/wos-ai/blob/main/README.md,1,1
+/quic/wos-ai/blob/main/Scripts/ort_setup.ps1,1,1
