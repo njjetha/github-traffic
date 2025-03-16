@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/quic/github-traffic,12,2
+/quic/github-traffic/actions,9,1
+/quic/github-traffic/actions/runs/13806567303,5,1
+/quic/github-traffic/tree/main/.github/workflows,4,1
+/quic/github-traffic/actions/new,3,1
+/quic/github-traffic/blob/main/.github/workflows/github-repo-stats.yml,2,1
+/quic/github-traffic/tree/github-repo-stats,2,1
+/quic/github-traffic/pulls,1,1
+/quic/github-traffic/tree/main,1,1
