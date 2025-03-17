@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qmi-framework,30,28
+/quic/qmi-framework/tree/main/qcci,2,2
+/quic/qmi-framework/blob/main/common/qmi_common.h,2,1
+/quic/qmi-framework/blob/main/README.md,2,1
+/quic/qmi-framework/blob/main/autogen.sh,1,1
+/quic/qmi-framework/blob/main/include/common_v01.h,1,1
+/quic/qmi-framework/blob/main/include/qcsi.h,1,1
+/quic/qmi-framework/blob/main/include/qmi_client.h,1,1
+/quic/qmi-framework/blob/main/LICENSE,1,1
+/quic/qmi-framework/blob/main/qcci/qcci_xport_qrtr.c,1,1
