@@ -1,5 +1,5 @@
 % Statistics for quic/ghe-policy-check
-% Generated for [quic/ghe-policy-check](https://github.com/quic/ghe-policy-check) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-03-17 23:35 UTC.
+% Generated for [quic/ghe-policy-check](https://github.com/quic/ghe-policy-check) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-03-18 23:45 UTC.
 
 
 ## Views
