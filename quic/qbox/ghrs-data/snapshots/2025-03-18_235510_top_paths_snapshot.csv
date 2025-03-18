@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,189,88
+/quic/qbox/tree/main/platforms,10,7
+/quic/qbox/tree/main/systemc-components,10,7
+/quic/qbox/tree/main,9,6
+/quic/qbox/blob/main/CMakeLists.txt,8,7
+/quic/qbox/blob/main/package-lock.cmake,8,6
+/quic/qbox/issues,6,5
+/quic/qbox/tree/main/docs,6,4
+/quic/qbox/tree/main/qemu-components,6,3
+/quic/qbox/blob/main/libqemu-cxxConfig.cmake.in,5,2
