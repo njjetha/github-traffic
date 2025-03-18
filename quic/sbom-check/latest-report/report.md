@@ -1,5 +1,5 @@
 % Statistics for quic/sbom-check
-% Generated for [quic/sbom-check](https://github.com/quic/sbom-check) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-03-17 00:01 UTC.
+% Generated for [quic/sbom-check](https://github.com/quic/sbom-check) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-03-18 00:01 UTC.
 
 
 ## Views
