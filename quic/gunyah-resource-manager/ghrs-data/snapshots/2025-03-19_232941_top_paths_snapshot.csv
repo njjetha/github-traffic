@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/gunyah-resource-manager,45,35
+/quic/gunyah-resource-manager/tree/develop/src,10,8
+/quic/gunyah-resource-manager/blob/develop/src/vm_creation/dto_construct.c,5,3
+/quic/gunyah-resource-manager/tree/develop,4,4
+/quic/gunyah-resource-manager/tree/develop/src/vm_creation,4,2
+/quic/gunyah-resource-manager/tree/develop/config,3,3
+/quic/gunyah-resource-manager/tree/develop/platform/qemu,3,2
+/quic/gunyah-resource-manager/tree/develop/platform,3,1
+/quic/gunyah-resource-manager/blob/develop/config/platform/qemu.conf,2,2
+/quic/gunyah-resource-manager/blob/develop/platform/qemu/build.conf,2,2
