@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sample-apps-for-qualcomm-linux,103,57
+/quic/sample-apps-for-qualcomm-linux/releases,25,17
+/quic/sample-apps-for-qualcomm-linux/tree/main/scripts,23,13
+/quic/sample-apps-for-qualcomm-linux/blob/main/scripts/export_model.sh,22,11
+/quic/sample-apps-for-qualcomm-linux/blob/main/scripts/preprocess.py,17,4
+/quic/sample-apps-for-qualcomm-linux/tree/main/Hello-QIM,16,15
+/quic/sample-apps-for-qualcomm-linux/blob/main/download_artifacts.sh,16,5
+/quic/sample-apps-for-qualcomm-linux/tree/main/Hello-QIM/include,11,7
+/quic/sample-apps-for-qualcomm-linux/tree/main,11,6
+/quic/sample-apps-for-qualcomm-linux/blob/main/README.md,10,9
