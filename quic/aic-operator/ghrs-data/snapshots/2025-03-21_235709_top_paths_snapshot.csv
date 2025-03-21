@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aic-operator,30,5
+/quic/aic-operator/tree/main,9,2
+/quic/aic-operator/tree/main/internal,6,2
+/quic/aic-operator/tree/main/cmd,6,1
+/quic/aic-operator/blob/main/manual_install/qcom-aic-rule-nfd.yaml,5,2
+/quic/aic-operator/tree/main/config,5,2
+/quic/aic-operator/blob/main/cmd/main.go,5,1
+/quic/aic-operator/tree/main/api/v1,5,1
+/quic/aic-operator/tree/main/internal/controller,4,2
+/quic/aic-operator/blob/main/api/v1/aic_types.go,3,2
