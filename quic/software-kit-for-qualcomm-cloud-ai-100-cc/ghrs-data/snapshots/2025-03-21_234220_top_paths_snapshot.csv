@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc,25,16
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/examples,4,3
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/thirdparty-modules,3,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/toolchain,2,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/docs/QAICProgramConfig.txt,1,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/examples/multicast_example/MulticastLib.cpp,1,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/lib/metadata/metadata-common/inc/AICMetadataExecCtx.h,1,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/lib/networkdesc/proto/AICNetworkDesc.proto,1,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/README.md,1,1
