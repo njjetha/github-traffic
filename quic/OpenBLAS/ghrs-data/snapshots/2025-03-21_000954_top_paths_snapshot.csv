@@ -1,0 +1,5 @@
+url_path,views_total,views_unique
+/quic/OpenBLAS,2,2
+/quic/OpenBLAS/tree/topic/sgemm_direct_sme1,2,1
+/quic/OpenBLAS/blob/topic/sgemm_direct_sme1/kernel/arm64/sgemm_direct_sme1.S,1,1
+/quic/OpenBLAS/commit/f66ca05b313cf936eb8f75cc7ea1a87549e5b2a9,1,1
