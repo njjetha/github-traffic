@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qmi-framework,32,27
+/quic/qmi-framework/pulls,5,2
+/quic/qmi-framework/blob/main/tests/test_service_v01.c,4,2
+/quic/qmi-framework/tree/main/common,3,3
+/quic/qmi-framework/blob/main/common/qmi_common.h,3,2
+/quic/qmi-framework/blob/main/include/qmi_client.h,2,2
+/quic/qmi-framework/tree/main/qcci,2,2
+/quic/qmi-framework/tree/main/tests,2,1
+/quic/qmi-framework/blob/main/autogen.sh,1,1
+/quic/qmi-framework/blob/main/common/common_v01.c,1,1
