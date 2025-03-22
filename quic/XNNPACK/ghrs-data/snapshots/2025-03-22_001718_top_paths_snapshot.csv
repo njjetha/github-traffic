@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/quic/XNNPACK,8,5
+/quic/XNNPACK/tree/sme1_gemm_support,4,3
+/quic/XNNPACK/commit/c98a18749d8deaefa29c3fea9fb162e0eee322f9,4,2
+/quic/xNNPACK,2,1
+/quic/XNNPACK/blob/sme1_gemm_support/cmake/DownloadPThreadPool.cmake,1,1
+/quic/XNNPACK/tree/c98a18749d8deaefa29c3fea9fb162e0eee322f9,1,1
+/quic/XNNPACK/tree/master/src,1,1
+/quic/XNNPACK/tree/sme1_gemm_support/cmake,1,1
+/quic/XNNPACK/tree/sme1_gemm_support/src,1,1
