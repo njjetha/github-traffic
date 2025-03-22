@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/ufs-tools,159,61
+/quic/ufs-tools/tree/main/ufs-cli,53,29
+/quic/ufs-tools/pulls,35,5
+/quic/ufs-tools/tree/main/scripts,31,17
+/quic/ufs-tools/tree/main,30,18
+/quic/ufs-tools/blob/main/README.md,20,8
+/quic/ufs-tools/pull/1,16,4
+/quic/ufs-tools/pull/1/commits,15,4
+/quic/ufs-tools/blob/main/scripts/ufs-eom.py,14,7
+/quic/ufs-tools/blob/main/ufs-cli/ufs_eom.c,11,7
